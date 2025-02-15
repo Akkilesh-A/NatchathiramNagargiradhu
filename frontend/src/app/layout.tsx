@@ -4,7 +4,6 @@ import localFont from 'next/font/local'
 import { NavBar } from "@/components";
 
 const PPEditorial = localFont({ src: './fonts/PPEditorialNew-Ultralight.otf' })
-const PPEditorialItalic = localFont({ src: './fonts/PPEditorialNew-UltralightItalic.otf' })
 
 export const metadata: Metadata = {
   title: "Create Next App",
