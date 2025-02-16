@@ -11,12 +11,16 @@ const NavBarLinks=[
         href:'/predict'
     },
     {
-        name:'Docs',
-        href:'/docs'
+        name:'Movement w.r.t Earth 🌍',
+        href:'/rotation'
     },
     {
-        name:'About',
-        href:'/about'
+        name:'Andromeda data from Gaia',
+        href:'/andromeda'
+    },
+    {
+        name:'Machine Learning',
+        href:'/andromeda'
     }
 ]
 

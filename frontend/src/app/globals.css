@@ -70,3 +70,16 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.noise-bg-1{
+  background-image: url("/bg1.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
+.custom-bg{
+
+  background-color: rgb(217, 249, 157);
+  background-image: radial-gradient(at 1% 75%, rgb(191, 219, 254) 0, transparent 42%), radial-gradient(at 83% 95%, rgb(22, 78, 99) 0, transparent 93%), radial-gradient(at 97% 33%, rgb(107, 33, 168) 0, transparent 30%), radial-gradient(at 38% 20%, rgb(245, 245, 244) 0, transparent 4%), radial-gradient(at 55% 3%, rgb(147, 197, 253) 0, transparent 21%), radial-gradient(at 14% 31%, rgb(219, 39, 119) 0, transparent 21%);
+
+}
