@@ -38,7 +38,7 @@ const DetailedAndromedaMovement: React.FC = () => {
       ))}
 
       {/* Milky Way Boundary */}
-      <motion.svg
+      {/* <motion.svg
         width="800"
         height="800"
         viewBox="0 0 800 800"
@@ -61,7 +61,7 @@ const DetailedAndromedaMovement: React.FC = () => {
             <stop offset="100%" stopColor="#FF0000" />
           </linearGradient>
         </defs>
-      </motion.svg>
+      </motion.svg> */}
 
       {/* Earth */}
       <motion.svg
